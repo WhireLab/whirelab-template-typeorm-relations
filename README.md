@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-whirelab-template-relations
+whirelab-template-typeorm-relations
 
 ## 📝 Licença
 
